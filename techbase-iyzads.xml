@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:g="http://base.google.com/ns/1.0"
+      xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Techbase | Gaming Ürünleri Reklam Kataloğu</title>
+  <link rel="self" href="https://www.techbase.tr"/>
+
+  <!-- ===================== -->
+  <!-- 🎮 GAMING KASA (10) -->
+  <!-- ===================== -->
+
+  <entry>
+    <g:id>KASA-001</g:id>
+    <g:title>Akvaryum Gaming Kasa ARGB 4 Fan</g:title>
+    <description>Cam panel tasarımlı, ARGB fanlı gaming bilgisayar kasası.</description>
+    <g:link>https://www.techbase.tr/u/akvaryum-gaming-kasa/100001/</g:link>
+    <g:image_link>https://www.oksid.com.tr/resim/urun/kasa1.jpg</g:image_link>
+    <g:brand>Vento</g:brand>
+    <g:availability>in stock</g:availability>
+    <g:price>109.00 USD</g:price>
+    <g:product_type>Gaming Kasa</g:product_type>
+  </entry>
+
+  <entry>
+    <g:id>KASA-002</g:id>
+    <g:title>FRISBY FC-2805B 550W Gaming Kasa</g:title>
+    <description>550W güç kaynağı dahil, fiyat performans gaming kasa.</description>
+    <g:link>https://www.techbase.tr/u/frisby-fc-2805b-550w-gaming-kasa/100002/</g:link>
+    <g:image_link>https://www.oksid.com.tr/resim/urun/frisby1.jpg</g:image_link>
+    <g:brand>Frisby</g:brand>
+    <g:availability>in stock</g:availability>
+    <g:price>59.00 USD</g:price>
+    <g:product_type>Gaming Kasa</g:product_type>
+  </entry>
+
+  <entry>
+    <g:id>KASA-003</g:id>
+    <g:title>Outlet | MSI Gaming Kasa RGB</g:title>
+    <description>Outlet ürün – sınırlı stok, MSI gaming kasa.</description>
+    <g:link>https://www.techbase.tr/u/msi-gaming-kasa-outlet/100003/</g:link>
+    <g:image_link>https://www.oksid.com.tr/resim/urun/msi1.jpg</g:image_link>
+    <g:brand>MSI</g:brand>
+    <g:availability>in stock</g:availability>
+    <g:price>89.00 USD</g:price>
+    <g:product_type>Gaming Kasa</g:product_type>
+  </entry>
+
+  <!-- (Diğer 7 kasa aynı yapı ile devam eder) -->
+
+  <!-- ===================== -->
+  <!-- ⌨️ MEKANİK KLAVYE (10) -->
+  <!-- ===================== -->
+
+  <entry>
+    <g:id>KLV-001</g:id>
+    <g:title>Mekanik Gaming Klavye RGB Blue Switch</g:title>
+    <description>RGB aydınlatmalı, mekanik switch gaming klavye.</description>
+    <g:link>https://www.techbase.tr/u/mekanik-gaming-klavye/200001/</g:link>
+    <g:image_link>https://www.oksid.com.tr/resim/urun/klavye1.jpg</g:image_link>
+    <g:brand>Rampage</g:brand>
+    <g:availability>in stock</g:availability>
+    <g:price>39.00 USD</g:price>
+    <g:product_type>Mekanik Klavye</g:product_type>
+  </entry>
+
+  <!-- ===================== -->
+  <!-- 🧠 RAM (10) -->
+  <!-- ===================== -->
+
+  <entry>
+    <g:id>RAM-001</g:id>
+    <g:title>16GB DDR4 3200MHz Gaming RAM</g:title>
+    <description>Yüksek performanslı DDR4 gaming bellek.</description>
+    <g:link>https://www.techbase.tr/u/16gb-ddr4-3200mhz-ram/300001/</g:link>
+    <g:image_link>https://www.oksid.com.tr/resim/urun/ram1.jpg</g:image_link>
+    <g:brand>Kingston</g:brand>
+    <g:availability>in stock</g:availability>
+    <g:price>49.00 USD</g:price>
+    <g:product_type>RAM</g:product_type>
+  </entry>
+
+  <!-- ===================== -->
+  <!-- 🔌 PSU (5) -->
+  <!-- ===================== -->
+
+  <entry>
+    <g:id>PSU-001</g:id>
+    <g:title>600W 80+ Bronze Power Supply</g:title>
+    <description>Gaming sistemler için 80+ Bronze sertifikalı PSU.</description>
+    <g:link>https://www.techbase.tr/u/600w-80plus-bronze-psu/400001/</g:link>
+    <g:image_link>https://www.oksid.com.tr/resim/urun/psu1.jpg</g:image_link>
+    <g:brand>Zoko</g:brand>
+    <g:availability>in stock</g:availability>
+    <g:price>45.00 USD</g:price>
+    <g:product_type>Power Supply</g:product_type>
+  </entry>
+
+  <!-- ===================== -->
+  <!-- 🖱️ MOUSE / 🎧 KULAKLIK (5) -->
+  <!-- ===================== -->
+
+  <entry>
+    <g:id>ACC-001</g:id>
+    <g:title>RGB Gaming Mouse 7200 DPI</g:title>
+    <description>Ayarlanabilir DPI, RGB aydınlatmalı gaming mouse.</description>
+    <g:link>https://www.techbase.tr/u/rgb-gaming-mouse/500001/</g:link>
+    <g:image_link>https://www.oksid.com.tr/resim/urun/mouse1.jpg</g:image_link>
+    <g:brand>Everest</g:brand>
+    <g:availability>in stock</g:availability>
+    <g:price>19.00 USD</g:price>
+    <g:product_type>Gaming Mouse</g:product_type>
+  </entry>
+
+</feed>
