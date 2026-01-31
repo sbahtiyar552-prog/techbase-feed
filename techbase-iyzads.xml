@@ -1,77 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
   <channel>
-    <title>Techbase | Gaming Ürünleri Reklam Kataloğu</title>
+    <title>Techbase | Popüler Gaming ve PC Ürünleri</title>
     <link>https://www.techbase.tr</link>
-    <description>Techbase ürün kataloğu (IyzAds)</description>
+    <description>Techbase reklam katalog XML</description>
 
-    <!-- 🎮 GAMING KASA -->
-    <item>
-      <g:id>KASA-001</g:id>
-      <title>Akvaryum Gaming Kasa ARGB 4 Fan</title>
-      <description>Cam panel tasarımlı, ARGB fanlı gaming bilgisayar kasası.</description>
-      <link>https://www.techbase.tr/u/akvaryum-gaming-kasa/100001/</link>
-      <g:image_link>https://www.oksid.com.tr/resim/urun/kasa1.jpg</g:image_link>
-      <g:brand>Vento</g:brand>
-      <g:availability>in stock</g:availability>
-      <g:price>109.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:product_type>Gaming Kasa</g:product_type>
-    </item>
+    <!-- 🎮 GAMING KASA (8) -->
+    <item><g:id>KASA-01</g:id><title>Akvaryum Gaming Kasa ARGB 4 Fan</title><description>Cam panel, ARGB fanlı gaming kasa.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/kasa1.jpg</g:image_link><g:availability>in stock</g:availability><g:price>109.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Gaming Kasa</g:product_type></item>
+    <item><g:id>KASA-02</g:id><title>Mesh Panel Gaming Kasa RGB</title><description>Yüksek hava akışlı mesh gaming kasa.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/kasa2.jpg</g:image_link><g:availability>in stock</g:availability><g:price>99.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Gaming Kasa</g:product_type></item>
+    <item><g:id>KASA-03</g:id><title>550W PSU Dahil Gaming Kasa</title><description>Güç kaynağı dahil fiyat performans kasa.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/kasa3.jpg</g:image_link><g:availability>in stock</g:availability><g:price>119.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Gaming Kasa</g:product_type></item>
+    <item><g:id>KASA-04</g:id><title>Mini Tower Gaming Kasa RGB</title><description>Kompakt tasarım RGB kasa.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/kasa4.jpg</g:image_link><g:availability>in stock</g:availability><g:price>89.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Gaming Kasa</g:product_type></item>
+    <item><g:id>KASA-05</g:id><title>ATX Temperli Cam Gaming Kasa</title><description>Şık tasarım temperli cam kasa.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/kasa5.jpg</g:image_link><g:availability>in stock</g:availability><g:price>129.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Gaming Kasa</g:product_type></item>
+    <item><g:id>KASA-06</g:id><title>Outlet RGB Gaming Kasa</title><description>Outlet ürün, sınırlı stok.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/kasa6.jpg</g:image_link><g:availability>in stock</g:availability><g:price>79.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Gaming Kasa</g:product_type></item>
+    <item><g:id>KASA-07</g:id><title>Silent Fan Gaming Kasa</title><description>Düşük sesli fanlı kasa.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/kasa7.jpg</g:image_link><g:availability>in stock</g:availability><g:price>105.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Gaming Kasa</g:product_type></item>
+    <item><g:id>KASA-08</g:id><title>Full Tower Gaming Kasa</title><description>Geniş iç hacimli full tower kasa.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/kasa8.jpg</g:image_link><g:availability>in stock</g:availability><g:price>149.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Gaming Kasa</g:product_type></item>
 
-    <item>
-      <g:id>KASA-002</g:id>
-      <title>FRISBY FC-2805B 550W Gaming Kasa</title>
-      <description>550W güç kaynağı dahil, fiyat performans gaming kasa.</description>
-      <link>https://www.techbase.tr/u/frisby-fc-2805b-550w-gaming-kasa/100002/</link>
-      <g:image_link>https://www.oksid.com.tr/resim/urun/frisby1.jpg</g:image_link>
-      <g:brand>Frisby</g:brand>
-      <g:availability>in stock</g:availability>
-      <g:price>59.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:product_type>Gaming Kasa</g:product_type>
-    </item>
+    <!-- ⌨️ MEKANİK KLAVYE (8) -->
+    <item><g:id>KLV-01</g:id><title>RGB Mekanik Gaming Klavye</title><description>Blue switch RGB klavye.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/klavye1.jpg</g:image_link><g:availability>in stock</g:availability><g:price>39.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Mekanik Klavye</g:product_type></item>
+    <item><g:id>KLV-02</g:id><title>Red Switch Mekanik Klavye</title><description>Hızlı tepki süreli klavye.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/klavye2.jpg</g:image_link><g:availability>in stock</g:availability><g:price>42.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Mekanik Klavye</g:product_type></item>
+    <item><g:id>KLV-03</g:id><title>TKL Mekanik Gaming Klavye</title><description>Numerik tuşsuz kompakt klavye.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/klavye3.jpg</g:image_link><g:availability>in stock</g:availability><g:price>45.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Mekanik Klavye</g:product_type></item>
+    <item><g:id>KLV-04</g:id><title>Wireless Mekanik Klavye</title><description>Kablosuz gaming klavye.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/klavye4.jpg</g:image_link><g:availability>in stock</g:availability><g:price>55.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Mekanik Klavye</g:product_type></item>
+    <item><g:id>KLV-05</g:id><title>Metal Gövdeli Gaming Klavye</title><description>Dayanıklı metal gövde.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/klavye5.jpg</g:image_link><g:availability>in stock</g:availability><g:price>49.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Mekanik Klavye</g:product_type></item>
+    <item><g:id>KLV-06</g:id><title>Low Profile Mekanik Klavye</title><description>İnce tasarım klavye.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/klavye6.jpg</g:image_link><g:availability>in stock</g:availability><g:price>58.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Mekanik Klavye</g:product_type></item>
+    <item><g:id>KLV-07</g:id><title>Rainbow LED Gaming Klavye</title><description>Çok renkli LED aydınlatma.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/klavye7.jpg</g:image_link><g:availability>in stock</g:availability><g:price>35.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Mekanik Klavye</g:product_type></item>
+    <item><g:id>KLV-08</g:id><title>Outlet Mekanik Klavye</title><description>Outlet ürün, sınırlı stok.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/klavye8.jpg</g:image_link><g:availability>in stock</g:availability><g:price>29.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Mekanik Klavye</g:product_type></item>
 
-    <item>
-      <g:id>KASA-003</g:id>
-      <title>Outlet | MSI Gaming Kasa RGB</title>
-      <description>Outlet ürün – sınırlı stok, MSI gaming kasa.</description>
-      <link>https://www.techbase.tr/u/msi-gaming-kasa-outlet/100003/</link>
-      <g:image_link>https://www.oksid.com.tr/resim/urun/msi1.jpg</g:image_link>
-      <g:brand>MSI</g:brand>
-      <g:availability>in stock</g:availability>
-      <g:price>89.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:product_type>Gaming Kasa</g:product_type>
-    </item>
+    <!-- 🧠 RAM (8) -->
+    <item><g:id>RAM-01</g:id><title>16GB DDR4 3200MHz RAM</title><description>Yüksek performans DDR4 bellek.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/ram1.jpg</g:image_link><g:availability>in stock</g:availability><g:price>49.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>RAM</g:product_type></item>
+    <item><g:id>RAM-02</g:id><title>32GB DDR4 3200MHz RAM</title><description>Güçlü sistemler için RAM.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/ram2.jpg</g:image_link><g:availability>in stock</g:availability><g:price>89.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>RAM</g:product_type></item>
+    <item><g:id>RAM-03</g:id><title>16GB DDR4 RGB RAM</title><description>RGB aydınlatmalı bellek.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/ram3.jpg</g:image_link><g:availability>in stock</g:availability><g:price>55.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>RAM</g:product_type></item>
+    <item><g:id>RAM-04</g:id><title>8GB DDR4 3000MHz RAM</title><description>Fiyat performans RAM.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/ram4.jpg</g:image_link><g:availability>in stock</g:availability><g:price>29.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>RAM</g:product_type></item>
+    <item><g:id>RAM-05</g:id><title>16GB DDR4 Dual Kit RAM</title><description>Çift kanal bellek.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/ram5.jpg</g:image_link><g:availability>in stock</g:availability><g:price>59.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>RAM</g:product_type></item>
+    <item><g:id>RAM-06</g:id><title>RGB Dual Kit Gaming RAM</title><description>Oyun için optimize bellek.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/ram6.jpg</g:image_link><g:availability>in stock</g:availability><g:price>69.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>RAM</g:product_type></item>
+    <item><g:id>RAM-07</g:id><title>Low Voltage DDR4 RAM</title><description>Düşük güç tüketimi.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/ram7.jpg</g:image_link><g:availability>in stock</g:availability><g:price>47.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>RAM</g:product_type></item>
+    <item><g:id>RAM-08</g:id><title>Outlet DDR4 Gaming RAM</title><description>Outlet ürün.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/ram8.jpg</g:image_link><g:availability>in stock</g:availability><g:price>39.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>RAM</g:product_type></item>
 
-    <!-- ⌨️ MEKANİK KLAVYE -->
-    <item>
-      <g:id>KLV-001</g:id>
-      <title>Mekanik Gaming Klavye RGB Blue Switch</title>
-      <description>RGB aydınlatmalı, mekanik switch gaming klavye.</description>
-      <link>https://www.techbase.tr/u/mekanik-gaming-klavye/200001/</link>
-      <g:image_link>https://www.oksid.com.tr/resim/urun/klavye1.jpg</g:image_link>
-      <g:brand>Rampage</g:brand>
-      <g:availability>in stock</g:availability>
-      <g:price>39.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:product_type>Mekanik Klavye</g:product_type>
-    </item>
+    <!-- 🔌 PSU (5) -->
+    <item><g:id>PSU-01</g:id><title>600W 80+ Bronze PSU</title><description>Güvenilir güç kaynağı.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/psu1.jpg</g:image_link><g:availability>in stock</g:availability><g:price>45.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Power Supply</g:product_type></item>
+    <item><g:id>PSU-02</g:id><title>650W Gaming PSU</title><description>Oyun sistemleri için PSU.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/psu2.jpg</g:image_link><g:availability>in stock</g:availability><g:price>52.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Power Supply</g:product_type></item>
+    <item><g:id>PSU-03</g:id><title>750W 80+ Bronze PSU</title><description>Yüksek güç ihtiyacı için.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/psu3.jpg</g:image_link><g:availability>in stock</g:availability><g:price>69.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Power Supply</g:product_type></item>
+    <item><g:id>PSU-04</g:id><title>Modüler Gaming PSU</title><description>Kablo karmaşası yok.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/psu4.jpg</g:image_link><g:availability>in stock</g:availability><g:price>89.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Power Supply</g:product_type></item>
+    <item><g:id>PSU-05</g:id><title>Outlet Power Supply</title><description>Outlet PSU.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/psu5.jpg</g:image_link><g:availability>in stock</g:availability><g:price>39.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Power Supply</g:product_type></item>
 
-    <!-- 🧠 RAM -->
-    <item>
-      <g:id>RAM-001</g:id>
-      <title>16GB DDR4 3200MHz Gaming RAM</title>
-      <description>Yüksek performanslı DDR4 gaming bellek.</description>
-      <link>https://www.techbase.tr/u/16gb-ddr4-3200mhz-ram/300001/</link>
-      <g:image_link>https://www.oksid.com.tr/resim/urun/ram1.jpg</g:image_link>
-      <g:brand>Kingston</g:brand>
-      <g:availability>in stock</g:availability>
-      <g:price>49.00 USD</g:price>
-      <g:condition>new</g:condition>
-      <g:product_type>RAM</g:product_type>
-    </item>
+    <!-- 🖥️ MASAÜSTÜ PC (5) -->
+    <item><g:id>PC-01</g:id><title>Ryzen 5 5600 Gaming PC</title><description>16GB RAM, 1TB SSD.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/pc1.jpg</g:image_link><g:availability>in stock</g:availability><g:price>699.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Masaüstü Bilgisayar</g:product_type></item>
+    <item><g:id>PC-02</g:id><title>Intel i5 12400 Gaming PC</title><description>RTX destekli hazır sistem.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/pc2.jpg</g:image_link><g:availability>in stock</g:availability><g:price>749.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Masaüstü Bilgisayar</g:product_type></item>
+    <item><g:id>PC-03</g:id><title>Ofis Tipi Masaüstü Bilgisayar</title><description>Günlük kullanım için.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/pc3.jpg</g:image_link><g:availability>in stock</g:availability><g:price>399.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Masaüstü Bilgisayar</g:product_type></item>
+    <item><g:id>PC-04</g:id><title>Mini PC Masaüstü Bilgisayar</title><description>Kompakt tasarım.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/pc4.jpg</g:image_link><g:availability>in stock</g:availability><g:price>359.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Masaüstü Bilgisayar</g:product_type></item>
+    <item><g:id>PC-05</g:id><title>Outlet Gaming Masaüstü PC</title><description>Outlet hazır sistem.</description><link>https://www.techbase.tr</link><g:image_link>https://www.oksid.com.tr/resim/urun/pc5.jpg</g:image_link><g:availability>in stock</g:availability><g:price>649.00 USD</g:price><g:brand>Techbase</g:brand><g:product_type>Masaüstü Bilgisayar</g:product_type></item>
 
   </channel>
 </rss>
